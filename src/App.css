@@ -1,0 +1,15 @@
+.TextDetails{
+  /* width: 100%; */
+  height: auto;
+  margin: 10px 0px 10px 10px;
+  width: calc(100% - 200px); /* Adjust as needed */
+}
+
+.bottons{
+  width: 150px;
+  align-content: center;
+}
+
+.container{
+  display: flex;
+}
